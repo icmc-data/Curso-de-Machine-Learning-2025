@@ -65,9 +65,5 @@ A presença será registrada e estará disponível por uma semana a partir do in
 - Backpropagation
 - Reconhecimento de dígitos
 
-Presença: https://forms.gle/enDZeChskoa7fwQH6
-
 ### Conteúdo Sétima Aula (10/06)
 - CNN
-
-  Presença: https://forms.gle/f1JZph4aKfCcTm697
